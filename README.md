@@ -22,6 +22,8 @@ The game recreates the classic Snake experience using ASCII characters for rende
 - Game-over detection on self-collision
 (Console-based game — no graphics or screenshots available)
 
+---
+
 ## Skills Demonstrated
 - C++ fundamentals
 - Game loop design
@@ -30,6 +32,8 @@ The game recreates the classic Snake experience using ASCII characters for rende
 - State-based game logic
 - Console rendering and screen clearing
 - Debugging logical and runtime errors
+
+---
 
 ## Architecture
 The game is structured around a simple loop-driven architecture:
