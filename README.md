@@ -14,8 +14,7 @@ The game recreates the classic Snake experience using ASCII characters for rende
 
 ---
 
-## Demo
-Gameplay features include:
+## Gameplay features include:
 - Snake movement controlled via keyboard
 - Randomly spawning fruit
 - Growing snake tail
